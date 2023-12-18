@@ -1,0 +1,3 @@
+2023-12-18 17:21:48 [DEBUG]: Starting new HTTPS connection (1): api.nytimes.com:443
+2023-12-18 17:21:50 [DEBUG]: https://api.nytimes.com:443 "GET /svc/topstories/v2/home.json?api-key=cAzgZfj16AqOdXcmXA5RQyk8kyfRyaAA HTTP/1.1" 200 None
+2023-12-18 17:21:50 [INFO]: Data inserted successfully
